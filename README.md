@@ -12,6 +12,7 @@ class { 'nodejs':
   bin_dir => '/opt/node',
   # optional, custom python 
   python => 'python26',
+}
 ```
 
 It builds NodeJS from source. If you want to use the builtin
